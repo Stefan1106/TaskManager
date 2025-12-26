@@ -21,7 +21,7 @@ View tasks completed today
 Dark mode toggle (saved in browser)
 
 
-' Admin '
+` Admin `
 
 
 Add and delete users
@@ -42,7 +42,7 @@ View monthly point totals per user
 
 
 
-Tech Stack
+## Tech Stack
 
 
 Backend: Flask, Flask-Login
@@ -54,19 +54,10 @@ Database: SQLAlchemy (SQLite or configurable)
 Export: Excel (openpyxl)
 
 
-Tech Stack
+## Folders
 
 
-Backend: Flask, Flask-Login
-
-Frontend: HTML, CSS, JavaScript, Jinja2
-
-Database: SQLAlchemy (SQLite or configurable)
-
-Export: Excel (openpyxl)
-
-
-app/
+` app/ `
 
 ├── __init__.py
 
@@ -88,7 +79,7 @@ app/
 
 _pycache_
 
-instance/
+` instance/ `
 
 ├── app.db
 
@@ -113,6 +104,7 @@ run.py
 requirements.txt
 
 
+## Run
 
 python -m venv venv
 
