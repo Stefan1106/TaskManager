@@ -6,11 +6,17 @@ Features
 User
 
 View tasks grouped by category
+
 Complete tasks once per day
+
 Optional comment/description when completing a task
+
 Prevents duplicate task completion per day
+
 View tasks completed today
+
 Dark mode toggle (saved in browser)
+
 
 Admin
 
