@@ -1,4 +1,4 @@
-Task Management & Points Tracking System
+# Task Management & Points Tracking System
 
 A Flask-based web application for managing daily tasks, tracking points, and maintaining a complete task history with admin control, user dashboards, dark mode, and Excel exports.
 
